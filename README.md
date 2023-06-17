@@ -1,5 +1,6 @@
 ## Stocks App
-[Link to cron job example](https://gutsytechster.wordpress.com/2019/06/24/how-to-setup-a-cron-job-in-django/#:~:text=Steps%20to%20setup%20a%20cron%20job%20in%20Django&text=Create%20a%20file%20anywhere%20within,will%20be%20your%20cron%20job.)
+[Link to cron job example](https://gutsytechster.wordpress.com/2019/06/24/how-to-setup-a-cron-job-in-django/#:~:text=Steps%20to%20setup%20a%20cron%20job%20in%20Django&text=Create%20a%20file%20anywhere%20within,will%20be%20your%20cron%20job.).
+
 [Link to random example](https://www.programiz.com/python-programming/examples/random-number)
 
 ### Backend
